@@ -1,0 +1,14 @@
+{
+    "name": "GITHUB_SANCTION_WARNING_HIDER",
+    "author": "Mehdi Ghodsizadeh",
+    "url": "",
+    "version": "1.0",
+    "description": "Hide the warning of github, Unfortunately Sanctions are always around you.",
+    "manifest_version": 2,
+    "content_scripts": [
+        {
+          "matches": ["*://*.github.com/*","*://github.com/*"],
+          "css": ["git.css"]
+        }
+      ]
+  }
