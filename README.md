@@ -1,5 +1,5 @@
 # hide_git_sanction
-To hide git warning which reminds what did to us on all pages.
+To hide the warning which reminds what  github did to us on all pages.
 
 
 # Installation
