@@ -5,7 +5,7 @@ To hide the warning which reminds what  github did to us on all pages.
 # Installation
 download the `ext.crx` file and drop it on chrome://extensions/ .
 
-## alternative
+## in case of an error
 you can clone this repo and in extensions page activate developer, then using the `Load Unpacked` you can select the  repo's folder.
 
 # More info
